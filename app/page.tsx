@@ -13,9 +13,9 @@ export default function Home() {
             <span className="text-xl font-semibold tracking-tight">Vercel Puzzle</span>
           </div>
           <div className="hidden md:flex items-center gap-8 text-sm font-medium text-zinc-600 dark:text-zinc-400">
-            <Link href="/" className="text-zinc-900 dark:text-zinc-50 border-b border-zinc-900 dark:border-zinc-50">Version 1</Link>
-            <Link href="/v2" className="hover:text-zinc-900 dark:hover:text-zinc-50 transition-colors border-b border-transparent">Version 2</Link>
-            <Link href="/v3" className="hover:text-zinc-900 dark:hover:text-zinc-50 transition-colors border-b border-transparent">Version 3</Link>
+            <a href="#" className="hover:text-zinc-900 dark:hover:text-zinc-50 transition-colors">Products</a>
+            <a href="#" className="hover:text-zinc-900 dark:hover:text-zinc-50 transition-colors">Solutions</a>
+            <a href="#" className="hover:text-zinc-900 dark:hover:text-zinc-50 transition-colors">Pricing</a>
           </div>
           <div>
             <button className="rounded-full bg-zinc-900 px-5 py-2 text-sm font-medium text-white transition-all hover:bg-zinc-800 dark:bg-white dark:text-zinc-900 dark:hover:bg-zinc-200">

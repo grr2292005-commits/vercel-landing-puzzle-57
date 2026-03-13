@@ -14,10 +14,9 @@ export default function Version3() {
           </div>
           
           <div className="hidden md:flex items-center gap-6 text-sm font-bold uppercase tracking-wide">
-            <Link href="/" className="hover:text-[#4D96FF] transition-colors">Version 1</Link>
-            <Link href="/v2" className="hover:text-[#4D96FF] transition-colors">Version 2</Link>
-            <Link href="/v3" className="text-[#FF6B6B]">Version 3</Link>
-            <a href="#" className="hover:scale-105 transition-transform">Fun</a>
+            <a href="#" className="hover:text-[#4D96FF] transition-colors">Fun</a>
+            <a href="#" className="hover:text-[#FF6B6B] transition-colors">About</a>
+            <a href="#" className="hover:text-[#6BCB77] transition-colors">Playground</a>
           </div>
 
           <div>
