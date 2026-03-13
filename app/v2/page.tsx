@@ -20,8 +20,8 @@ export default function Version2() {
           <div className="hidden lg:flex items-center gap-10 text-xs font-bold uppercase tracking-widest text-zinc-500">
             <Link href="/" className="hover:text-cyan-400 transition-all border-b border-transparent hover:border-cyan-400 pb-1">Version 1</Link>
             <Link href="/v2" className="text-cyan-400 border-b border-cyan-400 pb-1">Version 2</Link>
+            <Link href="/v3" className="hover:text-cyan-400 transition-all border-b border-transparent hover:border-cyan-400 pb-1">Version 3</Link>
             <a href="#" className="hover:text-purple-400 transition-all">Network</a>
-            <a href="#" className="hover:text-purple-400 transition-all">Compute</a>
           </div>
 
           <div className="flex items-center gap-4">
